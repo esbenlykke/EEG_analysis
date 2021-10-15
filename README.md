@@ -21,9 +21,11 @@ difference between two averages? If yes, how can you explain these differences?
 
 T2. Compare MRCPs (in movement phase) of three different movements and explain differences regarding to
 MRCP morphology such as amplitude, place and time of peak negativity, negativity slope,….
+
 T3. Extract the features from the movement and rest phase of each task and compare them. It should be done
 for each task separately. How is the variability of the features across trials? How these features differed among
 movements?
+
 T4. (Optional) By extracting features from good trials, classify among three movements. The features can be
 negativity slope, variability of the trials, place and amplitude of peak negativity and mean value of MRCP
 negativity
